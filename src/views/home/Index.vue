@@ -6,8 +6,8 @@
 				<div class="top-box">
 					<!--顶部左侧-->
 					<div class="t-left">
-						<span class="t-left-title">百千万工程数据可视化驾驶舱2</span>
-						<span class="t-left-subtext">王店镇 南梅村22</span>
+						<span class="t-left-title">百千万工程数据可视化驾驶舱</span>
+						<span class="t-left-subtext">王店镇 南梅村lql</span>
 					</div>
 					<!--顶部右侧-->
 					<div class="t-right">
