@@ -7,14 +7,14 @@
 					<!--顶部左侧-->
 					<div class="t-left">
 						<span class="t-left-title">百千万工程数据可视化驾驶舱</span>
-						<span class="t-left-subtext">王店镇 南梅村11111</span>
+						<span class="t-left-subtext">王店镇 南梅村1111</span>
 					</div>
 					<!--顶部右侧-->
 					<div class="t-right">
 						<span class="datetime">{{ currDateTime }}</span>
 						<img src="@/assets/images/go-system.png" alt="" />
 						<span class="go-system">
-							<span>进入后台11111</span>
+							<span>进入后台1111</span>
 						</span>
 					</div>
 				</div>
